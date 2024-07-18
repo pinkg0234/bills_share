@@ -18,12 +18,12 @@ const FormAutoFill = new Vue({
 
     // Google Form 各個 input 的 name
     input: {
-      id: 		'entry.357808092', 
-      name: 	'entry.263048923',
-      num: 		'entry.2104820911',
-      bills: 	'entry.1374935834',
-      diff: 	'entry.1257048439'
-    },      
+      id:'entry.357808092',
+      name:'entry.263048923',
+      num:'entry.2104820911',
+      bills:'entry.1374935834',
+      diff:'entry.1257048439'
+    },
     //msg: 'entry.2119587168'
   
 
