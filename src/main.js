@@ -3,7 +3,7 @@ const FormAutoFill = new Vue({
   data: {
 
     // Google Apps Script 部署為網路應用程式後的 URL
-    gas: 'https://script.google.com/macros/s/AKfycbwQ23rGXQgnTtlWcJA4atv-cXGiRdFeWZjNaNpM6aWiy_gJVjQ49kwvdTl0PKc7Hhs_/exec',
+    gas: 'https://script.google.com/macros/s/AKfycbwBeSiDKKsoqU5lGNA2VH35M14enUJH25gcltKwKvwpD7t-3x4L_fNuGX6Txmwp9zc8/exec',
 
     id: '',
 
@@ -15,7 +15,7 @@ const FormAutoFill = new Vue({
 
     // Google Form 的 action URL
     formAction: 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSfNiIcF6XhDAk-740SC2NuM2Stkz44OR2srOknJflOSLA78UQ/formResponse',
-    
+
     // Google Form 各個 input 的 name
     input: {
       id: 'entry.1815052017',
